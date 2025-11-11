@@ -1,4 +1,4 @@
-# Simple Counter App
+# Simple React Counter Project
 
 This is a basic counter project built using React.  
 It demonstrates the use of state and event handling with two buttons:
